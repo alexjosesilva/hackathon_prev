@@ -2,5 +2,5 @@
 
 Hackathon para desenvolvimento de soluções para previdencia
 
-![](http://i.picasion.com/pic90/dcb25b3492f1e65690e6eeb046e11e13.gif)
+![](http://i.picasion.com/pic90/3ccc463fbf19dbfc9406a9afbc54640b.gif)
 
